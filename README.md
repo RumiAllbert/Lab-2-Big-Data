@@ -5,4 +5,4 @@ Lab homework for CIS341 class.
 
 2. The reduce output will be outputed in the terminal, as well as in the SQL database.
 
-#The file connector & test.txt were just for testing purposes. 
+#The file connector & test.txt were just for testing purposes. Reducer2.py was an alternative method of putting the output from reducer into a DynamoDB database. 
